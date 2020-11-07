@@ -1,6 +1,6 @@
-my assignment is in the folder called site.
 
 
-click here to veiw output https://afshanzia.github.io/coursera-tests/site/
 
-please be kind i am a beginner :)
+click here to veiw output of module 2 https://afshanzia.github.io/coursera-tests/site/
+
+
